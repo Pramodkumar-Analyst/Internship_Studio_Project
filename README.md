@@ -1,7 +1,8 @@
 # Internship_Studio_Project
 The aim of this project is to use Python, SQL, and Excel to analyze sales  data and generate meaningful reports for a retail chain.</br>
 </br>
-1. Data Acquisition and Preparation: ➡ Data Sourcing: Obtained sales data in CSV format from Kaggle and established a secure local storage path.</br> 
+1. Data Acquisition and Preparation:</br>
+* Data Sourcing: Obtained sales data in CSV format from Kaggle and established a secure local storage path.</br> 
 * Database Design and Implementation: Constructed a SQL database schema tailored to the dataset, creating necessary tables using SQL DDL commands to efficiently store and 
   manage data.</br> 
 * Data Cleaning and Validation: Employed SQL queries and Python (Pandas) to meticulously identify and rectify data inconsistencies, missing values, and outliers, ensuring 
