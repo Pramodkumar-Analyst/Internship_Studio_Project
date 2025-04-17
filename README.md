@@ -15,7 +15,7 @@ The aim of this project is to use Python, SQL, and Excel to analyze sales  data 
   actionable insights.</br>
 
 3. Reporting and Visualization:</br> 
-* Report Generation: Produced comprehensive tabular reports (sales by product, store, time period) using SQL and Python, and formatted them in Excel for clarity and     
+* Report Generation: Produced comprehensive tabular reports (sales by product, store, time period) using SQL and Python, and formatted them in Excel for clarity and 
   professionalism.</br> 
 * Data Visualization: Created compelling visual representations (charts, graphs) using Python's visualization libraries to effectively communicate complex findings.</br> 
 * Dashboard Development: Integrated tabular and visual reports into an interactive Excel dashboard to provide a holistic view of sales performance and facilitate data-driven 
