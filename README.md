@@ -15,7 +15,7 @@ The aim of this project is to use Python, SQL, and Excel to analyze sales  data 
 * In-depth Analysis: Conducted sophisticated analyses such as time series forecasting, cohort analysis, and customer segmentation using Python's advanced libraries to derive 
   actionable insights.</br>
 
-# # 3. Reporting and Visualization:</br> 
+# 3. Reporting and Visualization:</br> 
 * Report Generation: Produced comprehensive tabular reports (sales by product, store, time period) using SQL and Python, and formatted them in Excel for clarity and 
   professionalism.</br> 
 * Data Visualization: Created compelling visual representations (charts, graphs) using Python's visualization libraries to effectively communicate complex findings.</br> 
